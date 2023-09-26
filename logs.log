@@ -1,0 +1,594 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-836-118
+ * Detected change in 'D:\\Shresth._.Sharma\\Temp\\New folder\\data_server _auth_UI_loginSaved_signButtonMove\\a.py', reloading
+ * Restarting with stat
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6000
+ * Running on http://192.168.1.5:6000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-836-118
+ * Detected change in 'D:\\Shresth._.Sharma\\Temp\\New folder\\data_server _auth_UI_loginSaved_signButtonMove\\a.py', reloading
+ * Restarting with stat
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-066-495
+192.168.1.2 - - [27/Jul/2023 09:25:18] "GET / HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:25:19] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:25:24] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:25:24] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:25:24] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:25:24] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:25:24] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:25:28] "[32mGET /logout/ HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:25:28] "GET / HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:25:29] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:25:31] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:25:31] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:25:31] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:25:32] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:25:32] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:37:59] "GET / HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:37:59] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:38:12] "[32mPOST /signup HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:38:12] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:38:12] "GET /get/Shalini HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:38:12] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:38:12] "GET /get/Shalini HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:38:23] "[32mPOST /create/Shalini HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:38:24] "GET /get/Shalini HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:38:24] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:38:24] "GET /get/Shalini HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:38:25] "GET /get/Shalini/Photos HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:38:25] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:38:25] "GET /get/Shalini HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:41:11] "[31m[1mPOST /upload/Shalini/Photos HTTP/1.1[0m" 400 -
+192.168.1.2 - - [27/Jul/2023 09:41:11] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:41:11] "GET /get/Shalini/Photos HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:41:11] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:41:11] "GET /get/Shalini HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:41:11] "GET /get/Shalini HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:41:51] "[32mPOST /upload/Shalini/Photos HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:41:52] "GET /get/Shalini/Photos HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:41:52] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:41:52] "GET /get/Shalini HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:41:55] "GET /get/Shalini/Photos/16904760827478556788437280949722.jpg HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:43:07] "[32mPOST /upload/Shalini/Photos HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:43:08] "GET /get/Shalini/Photos HTTP/1.1" 200 -
+192.168.1.2 - - [27/Jul/2023 09:43:08] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [27/Jul/2023 09:43:08] "GET /get/Shalini HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:00] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 02:14:00] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:01] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 02:14:01] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:02] "GET /get/ HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:03] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 02:14:03] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:05] "GET /get/Shalini HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:05] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 02:14:05] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:06] "GET /get/Shalini/Photos HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:07] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 02:14:07] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:09] "[32mGET /get//Shalini HTTP/1.1[0m" 308 -
+192.168.1.2 - - [28/Jul/2023 02:14:09] "GET /get/Shalini HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:09] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 02:14:09] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:10] "GET /get/ HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:10] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 02:14:10] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:11] "GET /get/Ratujeet HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:11] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 02:14:11] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:12] "GET /get/ HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 02:14:12] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 02:14:12] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 03:00:09] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 03:00:09] "GET /get/Ratujeet HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:17:41] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:17:41] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:17:41] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:17:41] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:17:43] "GET /get/ HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:17:43] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:17:43] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:17:45] "GET /get/Ratujeet HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:17:45] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:17:45] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:17:46] "GET /get/ HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:17:46] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:17:46] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:17:46] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:17:47] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:17:47] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:18:21] "[32mPOST /upload1/Shresth HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:18:21] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:18:22] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:18:22] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:19:38] "GET /get/Shresth/data_server%20_auth_UI_loginSaved_signButtonMove_logout_V2.1_compiled HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:19:38] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:19:38] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:19:43] "GET /get/Shresth/data_server%20_auth_UI_loginSaved_signButtonMove_logout_V2.1_compiled/templates HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:19:43] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:19:43] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:19:45] "[32mGET /get//Shresth/data_server%20_auth_UI_loginSaved_signButtonMove_logout_V2.1_compiled HTTP/1.1[0m" 308 -
+192.168.1.2 - - [28/Jul/2023 07:19:45] "GET /get/Shresth/data_server%20_auth_UI_loginSaved_signButtonMove_logout_V2.1_compiled HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:19:45] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:19:45] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:19:46] "GET /get/Shresth/data_server%20_auth_UI_loginSaved_signButtonMove_logout_V2.1_compiled/markupsafe HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:19:46] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:19:46] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:19:47] "GET /get/Shresth/data_server%20_auth_UI_loginSaved_signButtonMove_logout_V2.1_compiled HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:19:48] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:19:48] "[32mGET /get//Shresth HTTP/1.1[0m" 308 -
+192.168.1.2 - - [28/Jul/2023 07:19:48] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:19:48] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:19:48] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:19:48] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:29:37] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:29:37] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:29:37] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:29:37] "GET /get/Shresth HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 860-868-239
+192.168.1.2 - - [28/Jul/2023 07:47:51] "GET / HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:47:51] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:48:05] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:48:05] "GET /w HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:48:05] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:48:11] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:48:11] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:48:11] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 07:48:11] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 07:48:11] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:08:59] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:09:00] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 08:09:00] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:19:54] "[35m[1mGET /get/Shresth HTTP/1.1[0m" 500 -
+192.168.1.2 - - [28/Jul/2023 08:19:54] "[33mGET /get/Shresth?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 404 -
+192.168.1.2 - - [28/Jul/2023 08:19:54] "[33mGET /get/Shresth?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 404 -
+192.168.1.2 - - [28/Jul/2023 08:19:54] "[33mGET /get/Shresth?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 404 -
+192.168.1.2 - - [28/Jul/2023 08:20:44] "GET / HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:20:44] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:20:49] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 08:20:49] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 08:20:49] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:20:49] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 08:20:49] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:29:00] "GET / HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:29:00] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:29:14] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:29:14] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:29:14] "[35m[1mGET /get/all HTTP/1.1[0m" 500 -
+192.168.1.3 - - [28/Jul/2023 08:29:14] "[33mGET /get/all?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 404 -
+192.168.1.3 - - [28/Jul/2023 08:29:14] "[33mGET /get/all?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 404 -
+192.168.1.3 - - [28/Jul/2023 08:29:14] "[33mGET /get/all?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 404 -
+192.168.1.3 - - [28/Jul/2023 08:29:17] "[35m[1mGET /get/all HTTP/1.1[0m" 500 -
+192.168.1.3 - - [28/Jul/2023 08:29:17] "[33mGET /get/all?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 404 -
+192.168.1.3 - - [28/Jul/2023 08:29:17] "[33mGET /get/all?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 404 -
+192.168.1.3 - - [28/Jul/2023 08:29:48] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:29:49] "[35m[1mGET /get/all HTTP/1.1[0m" 500 -
+192.168.1.3 - - [28/Jul/2023 08:29:49] "[33mGET /get/all?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 404 -
+192.168.1.3 - - [28/Jul/2023 08:29:49] "[33mGET /get/all?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 404 -
+192.168.1.3 - - [28/Jul/2023 08:30:06] "GET / HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:30:06] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:30:20] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:30:20] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:30:21] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:30:21] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:30:21] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:30:24] "[32mGET /get// HTTP/1.1[0m" 308 -
+192.168.1.3 - - [28/Jul/2023 08:30:24] "GET /get/ HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:30:24] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:30:24] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:30:26] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:30:26] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:30:26] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:30:35] "[32mPOST /create/Shresth HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:30:35] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:30:35] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:30:35] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:30:36] "GET /get/Shresth/Temp HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:30:36] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:30:36] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:31:05] "[32mPOST /upload/Shresth/Temp HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:31:06] "GET /get/Shresth/Temp HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:31:06] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.3 - - [28/Jul/2023 08:31:06] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [28/Jul/2023 08:31:11] "GET /get/Shresth/Temp/20230728_205723.jpg HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:31:46] "GET / HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:31:46] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:32:01] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 08:32:01] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 08:32:01] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:32:01] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 08:32:01] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:32:10] "GET /get/Shresth/Temp HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:32:11] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 08:32:11] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 08:32:16] "[32mGET /fol/Shresth/Temp HTTP/1.1[0m" 308 -
+192.168.1.2 - - [28/Jul/2023 08:32:19] "GET /fol/Shresth/Temp/ HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:18] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:18] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 09:44:18] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:22] "[32mGET /get// HTTP/1.1[0m" 308 -
+192.168.1.2 - - [28/Jul/2023 09:44:22] "GET /get/ HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:22] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 09:44:22] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:24] "GET /get/Ratujeet HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:24] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 09:44:24] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:25] "GET /get/ HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:25] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 09:44:25] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:26] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:26] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 09:44:26] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:27] "GET /get/Shresth/Temp HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:28] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 09:44:28] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:30] "[32mGET /get//Shresth HTTP/1.1[0m" 308 -
+192.168.1.2 - - [28/Jul/2023 09:44:30] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 09:44:30] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 09:44:30] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:20:07] "[35m[1mGET /get/Shresth HTTP/1.1[0m" 500 -
+192.168.1.2 - - [28/Jul/2023 10:20:07] "[33mGET /get/Shresth?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 404 -
+192.168.1.2 - - [28/Jul/2023 10:20:07] "[33mGET /get/Shresth?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 404 -
+192.168.1.2 - - [28/Jul/2023 10:20:08] "[33mGET /get/Shresth?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 404 -
+192.168.1.2 - - [28/Jul/2023 10:20:27] "GET / HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:20:27] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:20:40] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 10:20:40] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 10:20:40] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:20:41] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 10:20:41] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:20:45] "GET /get/Shresth/Temp HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:20:46] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 10:20:46] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:20:48] "[32mGET /delete/Shresth/Temp HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 10:20:48] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:20:48] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 10:20:48] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:20:52] "[32mPOST /create/Shresth HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 10:20:52] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:20:52] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 10:20:53] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:20:54] "GET /get/Shresth/Temp HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:20:54] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 10:20:54] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:22:23] "[32mPOST /upload/Shresth/Temp HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 10:22:23] "GET /get/Shresth/Temp HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 10:22:24] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 10:22:24] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 22:56:24] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 22:56:25] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 22:56:25] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 22:57:53] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 22:57:53] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 22:57:53] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 22:57:53] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 22:57:55] "GET /get/Shresth/Temp HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 22:57:55] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [28/Jul/2023 22:57:55] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [28/Jul/2023 22:58:32] "GET /fol/Shresth/Temp/ HTTP/1.1" 200 -
+192.168.1.2 - - [29/Jul/2023 08:21:02] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [29/Jul/2023 08:21:57] "[32mPOST /upload1/Shresth HTTP/1.1[0m" 302 -
+192.168.1.2 - - [29/Jul/2023 08:21:57] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [29/Jul/2023 08:22:06] "[32mPOST /upload/Shresth HTTP/1.1[0m" 302 -
+192.168.1.2 - - [29/Jul/2023 08:22:06] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [29/Jul/2023 08:24:48] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [29/Jul/2023 08:24:48] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.2 - - [29/Jul/2023 08:24:48] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [29/Jul/2023 08:24:50] "GET /get/Shresth/Final.bin HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 860-868-239
+192.168.1.3 - - [29/Jul/2023 22:53:49] "[35m[1mGET /get/all HTTP/1.1[0m" 500 -
+192.168.1.3 - - [29/Jul/2023 22:53:50] "[33mGET /get/all?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 404 -
+192.168.1.3 - - [29/Jul/2023 22:53:50] "[33mGET /get/all?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 404 -
+192.168.1.3 - - [29/Jul/2023 22:53:50] "[33mGET /get/all?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 404 -
+192.168.1.3 - - [29/Jul/2023 22:53:56] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.3 - - [29/Jul/2023 22:53:56] "[35m[1mGET /get/all HTTP/1.1[0m" 500 -
+192.168.1.3 - - [29/Jul/2023 22:53:56] "[33mGET /get/all?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 404 -
+192.168.1.3 - - [29/Jul/2023 22:53:56] "[33mGET /get/all?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 404 -
+192.168.1.3 - - [29/Jul/2023 22:54:05] "GET / HTTP/1.1" 200 -
+192.168.1.3 - - [29/Jul/2023 22:54:05] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.3 - - [29/Jul/2023 22:54:22] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.3 - - [29/Jul/2023 22:54:22] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.3 - - [29/Jul/2023 22:54:22] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [29/Jul/2023 22:54:23] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.3 - - [29/Jul/2023 22:54:23] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [29/Jul/2023 22:55:45] "[32mPOST /upload/Shresth HTTP/1.1[0m" 302 -
+192.168.1.3 - - [29/Jul/2023 22:55:45] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.3 - - [29/Jul/2023 22:55:45] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.3 - - [29/Jul/2023 22:55:46] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.2 - - [30/Jul/2023 00:04:10] "GET / HTTP/1.1" 200 -
+192.168.1.2 - - [30/Jul/2023 00:04:11] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 00:59:24] "GET / HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 00:59:24] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 00:59:36] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 00:59:36] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 00:59:36] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 00:59:36] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 00:59:36] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:01] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:00:01] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:01] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:00:01] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:11] "GET /get/ HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:11] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:00:11] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:13] "[32mGET /get// HTTP/1.1[0m" 308 -
+192.168.1.4 - - [30/Jul/2023 01:00:13] "GET /get/ HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:13] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:00:13] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:16] "GET /get/ HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:16] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:00:16] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:19] "GET /get/ HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:20] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:00:20] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:37] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:00:37] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:37] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:00:37] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:46] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:00:46] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:46] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:00:46] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:51] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:00:51] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:00:51] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:05] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:01:05] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:06] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:01:06] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:16] "GET /get/ HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:16] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:01:16] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:19] "GET /get/ HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:19] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:01:19] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:21] "GET /get/ HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:22] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:01:22] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:22] "GET /get/ HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:22] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:01:22] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:23] "GET /get/ HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:23] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:01:23] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:42] "GET /get/D:// HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:42] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:01:43] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:46] "GET /get/D:///Data HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:46] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:01:46] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:49] "GET /get/D:///Data/temp HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:01:50] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:01:50] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:11] "GET /get/D:///Data/temp/Temp HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:11] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:02:11] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:14] "[32mGET /get//D:///Data/temp HTTP/1.1[0m" 308 -
+192.168.1.4 - - [30/Jul/2023 01:02:14] "GET /get/D://Data/temp HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:14] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:02:14] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:19] "GET /get/D://Data/temp/20230730_101209.jpg HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:26] "GET /get/D://Data/temp/20230730_101203.jpg HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:28] "GET /get/D://Data/temp/20230730_101203_stitch.png HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:28] "[35m[1mGET /get/D://Data/temp/20230730_101203_stitch.png HTTP/1.1[0m" 206 -
+192.168.1.4 - - [30/Jul/2023 01:02:28] "[35m[1mGET /get/D://Data/temp/20230730_101203_stitch.png HTTP/1.1[0m" 206 -
+192.168.1.4 - - [30/Jul/2023 01:02:30] "GET /get/D://Data/temp/20230730_101206.jpg HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:33] "[36mGET /get/D://Data/temp/20230730_101209.jpg HTTP/1.1[0m" 304 -
+192.168.1.4 - - [30/Jul/2023 01:02:36] "GET /get/D://Data/temp/20230730_101212.jpg HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:40] "[36mGET /get/D://Data/temp/20230730_101212.jpg HTTP/1.1[0m" 304 -
+192.168.1.4 - - [30/Jul/2023 01:02:42] "GET /get/D://Data/temp/20230730_101215.jpg HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:46] "GET /get/D://Data/temp/20230730_101217.jpg HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:49] "GET /get/D://Data/temp/20230730_101221.jpg HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:51] "[36mGET /get/D://Data/temp/20230730_101221.jpg HTTP/1.1[0m" 304 -
+192.168.1.4 - - [30/Jul/2023 01:02:52] "GET /get/D://Data/temp/20230730_101223.jpg HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:02:56] "GET /get/D://Data/temp/20230730_101628.jpg HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:03:02] "[32mGET /fol/D://Data/temp HTTP/1.1[0m" 308 -
+192.168.1.4 - - [30/Jul/2023 01:03:22] "GET /fol/D://Data/temp/ HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:03:38] "[35m[1mGET /fol/D://Data/temp/ HTTP/1.1[0m" 206 -
+192.168.1.4 - - [30/Jul/2023 01:03:38] "[35m[1mGET /fol/D://Data/temp/ HTTP/1.1[0m" 206 -
+192.168.1.4 - - [30/Jul/2023 01:03:39] "GET /fol/D://Data/temp/ HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:17:46] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:17:46] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:17:52] "[32mGET /get//D://Data HTTP/1.1[0m" 308 -
+192.168.1.4 - - [30/Jul/2023 01:17:52] "GET /get/D:/Data HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:17:53] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:17:53] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:20:19] "[32mPOST /upload/D:/Data HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:20:19] "GET /get/D:/Data HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 01:20:19] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 01:20:19] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 03:30:15] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 03:30:15] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 03:30:16] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 03:30:16] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 03:30:16] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 03:30:16] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 03:30:16] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 03:30:16] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 03:30:21] "GET /get/Shresth/cyber_miband4.bin HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 05:16:04] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 05:16:04] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 05:16:04] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 05:16:05] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 05:16:07] "GET /get/Shresth/Temp HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 05:16:07] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 05:16:07] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 05:16:11] "[32mGET /delete/Shresth/Temp HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 05:16:11] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 05:16:11] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 05:16:11] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 05:16:18] "[32mPOST /create/Shresth HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 05:16:19] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 05:16:19] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 05:16:19] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 05:16:20] "GET /get/Shresth/Temp HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 05:16:21] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 05:16:21] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 05:29:19] "[32mPOST /upload/Shresth/Temp HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 05:29:19] "GET /get/Shresth/Temp HTTP/1.1" 200 -
+192.168.1.4 - - [30/Jul/2023 05:29:20] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.4 - - [30/Jul/2023 05:29:20] "GET /get/Shresth HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 860-868-239
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.98:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 860-868-239
+192.168.1.99 - - [10/Sep/2023 09:51:47] "GET / HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:51:47] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:52:51] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:52:51] "GET /w HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:52:51] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:53:11] "[32mPOST /signin HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:53:11] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:53:12] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:53:12] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:53:12] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:53:17] "GET /get/Shresth/Temp HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:53:17] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:53:17] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:53:23] "[32mGET /delete/Shresth/Temp HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:53:23] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:53:23] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:53:23] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:53:42] "[32mPOST /create/Shresth HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:53:42] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:53:42] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:53:42] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:53:43] "GET /get/Shresth/Pokemon HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:53:43] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:53:43] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:54:12] "[32mPOST /upload/Shresth/Pokemon HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:54:12] "GET /get/Shresth/Pokemon HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:54:12] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:54:12] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:54:30] "[32mGET /deletefile/Shresth/Pokemon/S03E01.mkv HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:54:30] "GET /get/Shresth/Pokemon HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:54:31] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:54:31] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:54:32] "[32mGET /deletefile/Shresth/Pokemon/S03E02.mkv HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:54:32] "GET /get/Shresth/Pokemon HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:54:33] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:54:33] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:54:35] "[32mGET /delete/Shresth/Pokemon HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:54:35] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 09:54:35] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 09:54:35] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:01:56] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:01:57] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:01:57] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:01:58] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:01:58] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:01:59] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:01:59] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:01:59] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:01:59] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:01:59] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:02:00] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:02:00] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:02:00] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:02:01] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:02:01] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:02:01] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:02:02] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:02:02] "[31m[1mPOST /upload1/Shresth HTTP/1.1[0m" 400 -
+192.168.1.99 - - [10/Sep/2023 10:05:03] "[32mPOST /upload1/Shresth HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:07:06] "[32mGET / HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:07:06] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:06] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:07:06] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:08] "GET /get/Shresth/Pokemon HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:08] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:07:08] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:09] "GET /get/Shresth/Pokemon/S3 HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:09] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:07:09] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:25] "[32mGET /get//Shresth/Pokemon HTTP/1.1[0m" 308 -
+192.168.1.99 - - [10/Sep/2023 10:07:25] "GET /get/Shresth/Pokemon HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:25] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:07:25] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:26] "GET /get/Shresth/Pokemon/S4 HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:26] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:07:26] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:31] "GET /get/Shresth/Pokemon HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:31] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:07:31] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:35] "[32mPOST /create/Shresth/Pokemon HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:07:35] "GET /get/Shresth/Pokemon HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:35] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:07:35] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:37] "GET /get/Shresth/Pokemon/this HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:07:37] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:07:37] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:00] "GET /get/Shresth/Pokemon/this HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:01] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:08:01] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:13] "[32mPOST /upload/Shresth/Pokemon/this HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:08:13] "GET /get/Shresth/Pokemon/this HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:13] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:08:13] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:26] "GET /get/Shresth/Pokemon HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:26] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:08:26] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:28] "GET /get/Shresth/Pokemon/this HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:28] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:08:28] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:28] "GET /get/Shresth/Pokemon HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:28] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:08:28] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:29] "GET /get/Shresth/Pokemon/S3 HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:29] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:08:29] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:31] "GET /get/Shresth/Pokemon HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:08:31] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+192.168.1.99 - - [10/Sep/2023 10:08:31] "GET /get/Shresth HTTP/1.1" 200 -
+192.168.1.99 - - [10/Sep/2023 10:09:26] "[32mPOST /upload1/Shresth HTTP/1.1[0m" 302 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.99:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-836-118
